@@ -1,0 +1,23 @@
+Metadata-Version: 1.1
+Name: django-mailbox
+Version: 4.5.4
+Summary: Import mail from POP3, IMAP, local mailboxes or directly from Postfix or Exim4 into your Django application automatically.
+Home-page: http://github.com/coddingtonbear/django-mailbox/
+Author: Adam Coddington
+Author-email: me@adamcoddington.net
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Framework :: Django
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Communications :: Email
+Classifier: Topic :: Communications :: Email :: Post-Office
+Classifier: Topic :: Communications :: Email :: Post-Office :: IMAP
+Classifier: Topic :: Communications :: Email :: Post-Office :: POP3
+Classifier: Topic :: Communications :: Email :: Email Clients (MUA)

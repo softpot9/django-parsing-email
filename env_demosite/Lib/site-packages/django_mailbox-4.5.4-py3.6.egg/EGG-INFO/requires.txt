@@ -1,0 +1,4 @@
+six>=1.6.1
+
+[gmail-oauth2]
+python-social-auth
